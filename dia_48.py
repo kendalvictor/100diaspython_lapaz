@@ -1,0 +1,1 @@
+print([_ % 2 == 0 for _ in range(1, 6)])
